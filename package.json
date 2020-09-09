@@ -1,0 +1,17 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "express demo building a RESTful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "David Piper",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^2.5.7",
+    "express": "^4.17.1",
+    "m": "^1.5.6",
+    "mongoose": "^5.10.3"
+  }
+}
